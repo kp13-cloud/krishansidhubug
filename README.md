@@ -1,7 +1,10 @@
-# Awesome Bug Bounty Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🔥 KrishanSidhu Bug Bounty Tools
 
-> A curated list of various bug bounty tools
+> A curated collection of security research, bug bounty, reconnaissance, and web application security resources.
 
+**Maintained by KRISHAN SINGH SIDHU**
+
+⚠️ **Disclaimer:** These resources are intended for authorized security research, bug bounty programs, CTFs, labs, and systems you have permission to test. Always follow the applicable scope and rules.
 ## Contents
 
 - [Recon](#Recon)
