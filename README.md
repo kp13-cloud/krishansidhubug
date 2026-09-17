@@ -1,7 +1,61 @@
-# 🔥 KrishanSidhu Bug Bounty Tools
+<div align="center">🔥 KRISHANSIDHUBUG 🔥
 
-> A curated collection of security research, bug bounty, reconnaissance, and web application security resources.
+🛡️ Bug Bounty & Security Research Toolkit
 
+Recon • Web Security • Vulnerability Research • Bug Bounty
+
+""Awesome" (https://awesome.re/badge.svg)" (https://awesome.re)
+""GitHub" (https://img.shields.io/badge/GitHub-kp13--cloud-181717?logo=github)" (https://github.com/kp13-cloud)
+""Repository" (https://img.shields.io/badge/Repo-krishansidhubug-blue?logo=github)" (https://github.com/kp13-cloud/krishansidhubug)
+""Markdown" (https://img.shields.io/badge/Format-Markdown-000000?logo=markdown)" (https://www.markdownguide.org/)
+
+</div>---
+
+🚀 About
+
+KrishanSidhuBug is a curated collection of resources for security researchers, bug bounty hunters, and students learning web application security.
+
+The collection covers areas such as:
+
+- 🔎 Reconnaissance
+- 🌐 Subdomain Enumeration
+- 📡 Port Scanning
+- 🗂️ Content Discovery
+- 🔐 Web Security Testing
+- 🧪 Vulnerability Research
+- 🤖 Security Research & AI Tools
+- 📚 Learning Resources
+
+«Maintained by KRISHAN SINGH SIDHU»
+
+---
+
+🧭 Navigation
+
+Section| Description
+🔎 "Recon" (#recon)| Reconnaissance and discovery resources
+💥 "Exploitation" (#exploitation)| Web vulnerability research resources
+🧰 "Miscellaneous" (#miscellaneous)| Additional security resources
+🤝 "Contribute" (#contribute)| Contribution information
+📜 "License" (#license)| License and attribution
+
+---
+
+⚠️ Authorized Use
+
+This repository is intended for authorized security research, education, CTFs, labs, and bug bounty programs where testing is explicitly permitted.
+
+Only test systems that you own or have permission to assess. Always follow the target's scope, rules, and applicable laws.
+
+---
+
+⭐ Support the Project
+
+If you find this curated collection useful, consider giving the repository a ⭐ on GitHub.
+
+Repository: "kp13-cloud/krishansidhubug"
+
+---
 **Maintained by KRISHAN SINGH SIDHU**
 
 ⚠️ **Disclaimer:** These resources are intended for authorized security research, bug bounty programs, CTFs, labs, and systems you have permission to test. Always follow the applicable scope and rules.
